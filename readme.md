@@ -1,4 +1,4 @@
-Yandex Prakticum. First project.
+# Yandex Prakticum. First/Second project.
 
 --===============---
 Technologies: CSS, HTML
